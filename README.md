@@ -779,7 +779,7 @@ Any real-world clinical deployment would require independent validation, clinica
 
 # 👨‍💻 Author
 
-**Moe**
+**Moetwl**
 
 If you found this project interesting, feel free to ⭐ the repository or explore the notebook.
 
